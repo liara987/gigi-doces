@@ -8,7 +8,6 @@ Página desenvolvida para divulgar os produtos da GiGi Doces e Lembranças.
 
 ## Instruções
 #### Só clonar o repositório e abrir o index.html :smiley:
-&nbsp; 
 
 ## Screenshot
 ### Menu no navegador
@@ -23,5 +22,4 @@ Página desenvolvida para divulgar os produtos da GiGi Doces e Lembranças.
 ### Rodapé
 ![N|Solid](https://raw.githubusercontent.com/liara987/gigi-doces/master/images/screenshot/footer-mobile.png)
 
-## Click na logo para navegar no site
-[![N|Solid](https://raw.githubusercontent.com/liara987/gigi-doces/master/images/icons/favicon.ico)](https://liara987.github.io/gigi-doces/)
+## Click [aqui](https://liara987.github.io/gigi-doces/) para navegar no site
