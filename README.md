@@ -6,9 +6,6 @@ Página desenvolvida para divulgar os produtos da GiGi Doces e Lembranças.
   - Materialize
   - Github Page
 
-## Instruções
-#### Só clonar o repositório e abrir o index.html :smiley:
-
 ## Screenshot
 ### Menu no navegador
 ![N|Solid](https://raw.githubusercontent.com/liara987/gigi-doces/master/images/screenshot/nav.png)
